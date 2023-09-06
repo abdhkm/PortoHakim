@@ -1,24 +1,24 @@
 # Data Analytics Portfolio by Abdul Hakim
 Hi! My name is Abdul Hakim, just called me Hakim. Here is my Portfolio as Data Analyst, please check it out!
 
-# Spreadsheet/ Excel Skill sets:
-* Business Understanding;
-* Data Cleaning;
-* Descriptive Statistics;
+# Spreadsheet/ Excel Skill sets
+* Business Understanding
+* Data Cleaning
+* Descriptive Statistics
 * Exploratory Data Analysis
-* Data Visualization;
-* Hypothesis Testing;
+* Data Visualization
+* Hypothesis Testing
 * Gathering Insights
 
 ### Deck
 [Data Cleaning and Processing in Spreadsheet](https://drive.google.com/file/d/10fB-v97KQqtr1hRuNIkbsLRYNUtSgniH/view)
 
 # SQL Skill Sets
-* Standard Query Syntax;
-* SQL Aggregate Functions;
-* SQL Joins;
-* SQL Data Type;
-* SQL Date Format;
+* Standard Query Syntax
+* SQL Aggregate Functions
+* SQL Joins
+* SQL Data Type
+* SQL Date Format
 * SQL Window Function
 
 ### Code Examples
@@ -40,4 +40,15 @@ Hi! My name is Abdul Hakim, just called me Hakim. Here is my Portfolio as Data A
 * Cluster Analysis
 
 ### Code Examples
-[Create a query to get the category with the most total SKUs](https://console.cloud.google.com/bigquery?sq=28093896891:8c019180248946b69c176f2fbd6d2b8c)
+[Marketplace Public Dataset](https://github.com/abdhkm/PortoHakim/blob/main/Intermediate_Assigment_Abdul_Hakim.ipynb)
+
+# Dataviz using Tableau
+* Connect and combine/ join datasets
+* Data formatting
+* Visualization
+* Calculated field
+* Interactive Dashboard
+
+### Code Examples
+[Airbnb Dashboard](https://public.tableau.com/app/profile/abdul.hakim3963/viz/AirbnbListingPerformanceDashboard_16939914217410/DashboardEdit?publish=yes)
+
