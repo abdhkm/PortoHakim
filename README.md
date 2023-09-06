@@ -52,3 +52,6 @@ Hi! My name is Abdul Hakim, just called me Hakim. Here is my Portfolio as Data A
 ### Code Examples
 [Airbnb Dashboard](https://public.tableau.com/app/profile/abdul.hakim3963/viz/AirbnbListingPerformanceDashboard_16939914217410/DashboardEdit?publish=yes)
 
+# Project Based Analytics
+[Airbnb Analysis of Listings Price Determinants](https://drive.google.com/file/d/1pCc9slBdgRVWIDtpDeI_iVzfqwkCsHCi/view)
+
