@@ -26,3 +26,18 @@ Hi! My name is Abdul Hakim, just called me Hakim. Here is my Portfolio as Data A
 2. [Create a query to get the jeans category with the lowest total orders per month](https://console.cloud.google.com/bigquery?sq=28093896891:378323aee80e49ac82b554c64b15cdcb)
 3. [Create a query to get the highest total number with from, to and qty](https://console.cloud.google.com/bigquery?sq=28093896891:d42a861cf0bf415099691006543e444f)
 4. [Create a query to get top 1 combination of age group, gender, and country that contributed the highest number of buyers in 2021](https://console.cloud.google.com/bigquery?sq=28093896891:5b50ee8277b2489b8341246404380ce6)
+
+# Python Skill Sets
+* Removing irrelevant values
+* Handling missing data
+* Removing duplicates
+* Handling Outlier
+* String manipulation
+* Combine & merge datasets
+* Data aggregation
+* Descriptive statistic
+* Analyzing using visualization
+* Cluster Analysis
+
+### Code Examples
+[Create a query to get the category with the most total SKUs](https://console.cloud.google.com/bigquery?sq=28093896891:8c019180248946b69c176f2fbd6d2b8c)
